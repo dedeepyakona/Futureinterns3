@@ -17,3 +17,4 @@ To simplify client management, task tracking, and follow-ups through a clean and
 - Figma  
 
 ## 🔗 Figma Link
+https://www.figma.com/design/vZzaMAzmAVDlBLVSPhxLMJ/futureinterns3?node-id=0-1&t=7zsGh64ZnXGf550t-1
